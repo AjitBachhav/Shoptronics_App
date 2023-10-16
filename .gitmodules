@@ -1,0 +1,3 @@
+[submodule "EStore"]
+	path = EStore
+	url = https://github.com/AjitBachhav/Shoptronics_App.git
